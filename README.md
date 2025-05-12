@@ -23,3 +23,15 @@
 ✉️ [snrb128@naver.com](mailto:snrb128@naver.com)
 
 </div>
+
+<div align="center">
+  
+## 👋 About Me
+
+</div>
+
+- 🌱 I’m currently learning **Next.js** and **TypeScript**
+- 💼 I'm interested in backend development and scalable systems
+- 🧠 Passionate about clean code & problem solving
+
+![visitors](https://komarev.com/ghpvc/?username=snrb128&label=Profile%20views&color=0e75b6&style=flat)

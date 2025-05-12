@@ -30,7 +30,7 @@
 
 </div>
 
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
+- 🌱 I’m currently learning Python and C
 - 💼 I'm interested in backend development and scalable systems
 - 🧠 Passionate about clean code & problem solving
 
